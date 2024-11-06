@@ -8,7 +8,7 @@ I’m currently transitioning my career to become a Java developer. With over 6 
 
 
 ## 🚀 What I'm learning: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,react,javascript)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,git,github)](https://skillicons.dev)<br><br>
